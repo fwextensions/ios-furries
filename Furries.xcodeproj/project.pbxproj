@@ -13,6 +13,8 @@
 		E3ED93321A8AD66800F1DACB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3ED93311A8AD66800F1DACB /* Images.xcassets */; };
 		E3ED93351A8AD66800F1DACB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3ED93331A8AD66800F1DACB /* LaunchScreen.xib */; };
 		E3ED93411A8AD66800F1DACB /* FurriesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED93401A8AD66800F1DACB /* FurriesTests.swift */; };
+		E3ED934B1A8AD7F000F1DACB /* FieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED934A1A8AD7F000F1DACB /* FieldViewController.swift */; };
+		E3ED934D1A8AE6CE00F1DACB /* utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED934C1A8AE6CE00F1DACB /* utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E3ED933A1A8AD66800F1DACB /* FurriesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FurriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3ED933F1A8AD66800F1DACB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3ED93401A8AD66800F1DACB /* FurriesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurriesTests.swift; sourceTree = "<group>"; };
+		E3ED934A1A8AD7F000F1DACB /* FieldViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FieldViewController.swift; sourceTree = "<group>"; };
+		E3ED934C1A8AE6CE00F1DACB /* utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 				E3ED932C1A8AD66800F1DACB /* ViewController.swift */,
 				E3ED932E1A8AD66800F1DACB /* Main.storyboard */,
 				E3ED93311A8AD66800F1DACB /* Images.xcassets */,
+				E3ED934C1A8AE6CE00F1DACB /* utils.swift */,
+				E3ED934A1A8AD7F000F1DACB /* FieldViewController.swift */,
 				E3ED93331A8AD66800F1DACB /* LaunchScreen.xib */,
 				E3ED93281A8AD66800F1DACB /* Supporting Files */,
 			);
@@ -214,6 +220,8 @@
 			files = (
 				E3ED932D1A8AD66800F1DACB /* ViewController.swift in Sources */,
 				E3ED932B1A8AD66800F1DACB /* AppDelegate.swift in Sources */,
+				E3ED934B1A8AD7F000F1DACB /* FieldViewController.swift in Sources */,
+				E3ED934D1A8AE6CE00F1DACB /* utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
