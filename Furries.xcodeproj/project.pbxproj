@@ -15,6 +15,7 @@
 		E3ED93411A8AD66800F1DACB /* FurriesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED93401A8AD66800F1DACB /* FurriesTests.swift */; };
 		E3ED934B1A8AD7F000F1DACB /* FieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED934A1A8AD7F000F1DACB /* FieldViewController.swift */; };
 		E3ED934D1A8AE6CE00F1DACB /* utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED934C1A8AE6CE00F1DACB /* utils.swift */; };
+		E3ED93511A92E33100F1DACB /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3ED93501A92E33100F1DACB /* ChatViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		E3ED93401A8AD66800F1DACB /* FurriesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FurriesTests.swift; sourceTree = "<group>"; };
 		E3ED934A1A8AD7F000F1DACB /* FieldViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FieldViewController.swift; sourceTree = "<group>"; };
 		E3ED934C1A8AE6CE00F1DACB /* utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = utils.swift; sourceTree = "<group>"; };
+		E3ED93501A92E33100F1DACB /* ChatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ChatViewController.swift; path = Furries/ChatViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		E3ED931C1A8AD66800F1DACB = {
 			isa = PBXGroup;
 			children = (
+				E3ED93501A92E33100F1DACB /* ChatViewController.swift */,
 				E3ED93271A8AD66800F1DACB /* Furries */,
 				E3ED933D1A8AD66800F1DACB /* FurriesTests */,
 				E3ED93261A8AD66800F1DACB /* Products */,
@@ -221,6 +224,7 @@
 				E3ED932D1A8AD66800F1DACB /* ViewController.swift in Sources */,
 				E3ED932B1A8AD66800F1DACB /* AppDelegate.swift in Sources */,
 				E3ED934B1A8AD7F000F1DACB /* FieldViewController.swift in Sources */,
+				E3ED93511A92E33100F1DACB /* ChatViewController.swift in Sources */,
 				E3ED934D1A8AE6CE00F1DACB /* utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
