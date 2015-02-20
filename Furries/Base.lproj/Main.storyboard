@@ -278,7 +278,7 @@
         <image name="rightArrow" width="23" height="19"/>
         <image name="rotateLeft" width="20" height="20"/>
         <image name="rotateRight" width="20" height="20"/>
-        <image name="tear" width="24" height="40"/>
+        <image name="tear" width="12" height="20"/>
         <image name="upArrow" width="19" height="23"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
